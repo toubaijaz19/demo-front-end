@@ -1,0 +1,49 @@
+.height{
+	height: 10px;
+}
+.bg_black{
+	background-color: #808080;
+}
+.btn-link{
+	color: white;
+}
+
+.right{
+	float: right;
+	margin-right: 100px;
+
+}
+.right1{
+	float: right;
+
+}
+.white-color{
+	color: white;
+}
+.black{
+	color: black;
+}
+.bg_white{
+	background-color:rgb(242, 242, 242);
+
+}
+.avatar{
+	height: 150px;
+	width: 150px;
+}
+.stat{
+	font-size: 60px;
+}
+.bg_gray{
+	background-color:rgb(242, 242, 242);
+}
+.wd{
+	width:136%;
+}
+.center_{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.wd12{
+	width:150px;
+}
